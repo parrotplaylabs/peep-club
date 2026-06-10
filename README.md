@@ -8,6 +8,10 @@ Track your roster, take date-first attendance at weekly meetings, schedule tourn
 
 Built for operators who run clubs alone and want clarity without enterprise overhead.
 
+## Demo
+
+[Watch the video demo](https://drive.proton.me/urls/7PVZEWQNHG#oTdHRsrqDKqK)
+
 ## Features
 
 - **Members** — CRUD, search, CSV import, welcome share messages
