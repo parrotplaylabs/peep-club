@@ -1,0 +1,21 @@
+{
+  "name": "peep-club",
+  "version": "1.0.0",
+  "description": "Lightweight club management for solo supervisors — members, attendance, events, announcements, and volunteers.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node scripts/seed.js",
+    "reset": "node scripts/reset.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0"
+  }
+}
